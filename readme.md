@@ -1,4 +1,4 @@
-Here's a README file for your project, "Research Genie AI":
+Here's a README file for my project, "Research Genie AI":
 
 # Research Genie AI
 
