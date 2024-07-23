@@ -96,7 +96,3 @@ Navigating through large volumes of research papers can be overwhelming and time
 
 Contributions are welcome! Please open an issue or submit a pull request if you have suggestions or improvements.
 
-
-Feel free to customize the README further based on any additional details or specific instructions relevant to your project.
-
-
