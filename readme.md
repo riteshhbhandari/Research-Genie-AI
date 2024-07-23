@@ -2,6 +2,8 @@ Here's a README file for my project, "Research Genie AI":
 
 # Research Genie AI
 
+**Project Link** https://research-genie-ai.streamlit.app/
+
 **Research Genie AI** is an advanced web application designed to interact with research papers using AI. It leverages AI to provide detailed answers to questions based on the contents of uploaded research papers. This project showcases the integration of AI technologies to enhance research efficiency and accessibility.
 
 ## Problem It Solves
