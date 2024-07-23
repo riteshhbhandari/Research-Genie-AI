@@ -1,18 +1,33 @@
-make a virtual environment
-pyhton3 -m venv .pdfenv
+Here's a step-by-step guide to setting up and running the project:
 
-activate it 
-source .pdfenv/bin/activate
+1. Create a Virtual Environment:
+   - Run: `python3 -m venv .pdfenv`
 
-to deactivate 
-deactivate
+2. Activate the Virtual Environment:
+   - On Unix or MacOS: `source .pdfenv/bin/activate`
+   - On Windows: `.pdfenv\Scripts\activate`
 
-make a text file inside the project folder
-requirement.txt 
+3. Deactivate the Virtual Environment:
+   - Run: `deactivate`
 
-add the name of all the pyhton libraries you need to install and run the command
-pip  install -r requirement.txt
+4. Create a Requirements File:
+   - Make a text file named `requirements.txt` inside your project folder.
+   - Add the names of all the Python libraries you need to install.
 
-create a file name app.py
+5. Install Required Libraries:
+   - Run: `pip install -r requirements.txt`
 
-create a file name .env and save your google API KEY with the name of GOOGLE_API_KEY =" "
+6. Create a `.env` File:
+   - Create a file named `.env` in your project folder.
+   - Add your Google API key in the following format:
+     ```
+     GOOGLE_API_KEY="your_api_key_here"
+     ```
+
+7. Create the Application File:
+   - Make a file named `app.py` and include the provided code.
+
+8. Run Your Application:
+   - Execute the application with: `streamlit run app.py`
+
+This will set up your environment and allow you to run the Streamlit app for interacting with research papers.
