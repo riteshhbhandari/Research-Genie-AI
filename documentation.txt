@@ -1,0 +1,18 @@
+make a virtual environment
+pyhton3 -m venv .pdfenv
+
+activate it 
+source .pdfenv/bin/activate
+
+to deactivate 
+deactivate
+
+make a text file inside the project folder
+requirement.txt 
+
+add the name of all the pyhton libraries you need to install and run the command
+pip  install -r requirement.txt
+
+create a file name app.py
+
+create a file name .env and save your google API KEY with the name of GOOGLE_API_KEY =" "
