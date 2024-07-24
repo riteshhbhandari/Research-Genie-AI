@@ -1,6 +1,6 @@
 Here's a README file for my project, "Research Genie AI":
 
-# Research Genie AI
+# ScholarWiz.ai Research Genie AI
 
 **Deployment Link** https://research-genie-ai.streamlit.app/
 
